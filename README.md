@@ -1,10 +1,12 @@
 #### 微信抢红包助手
 
---
+----
 
 #### 概述
 
 基于Android AccessibilityService无障碍服务实现的自动抢红包App
+
+#### [apk下载](https://github.com/xumiaolee/WechatRedPacketPlugin/raw/master/app/release/%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85%E5%8A%A9%E6%89%8BBeta1.0.apk)
 
 
 #### 目前具备功能
