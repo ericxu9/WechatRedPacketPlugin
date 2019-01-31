@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">微信红包助手Beta1.0</string>
+
+    <string name="accessibility_service_description">开启该辅助功能后，开始监听微信程序；监听维度有：通知栏红包、聊天列表前5条有红包的信息、聊天页面红包。</string>
+</resources>
